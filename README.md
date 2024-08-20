@@ -19,3 +19,18 @@ HTML5 🌐 for the structure and layout of the app.
 CSS3 🎨 for styling and ensuring the UI is visually appealing.
 
 JavaScript ⚙️ for handling dynamic interactions such as adding and deleting movies.
+
+📸 Screenshots
+Include some screenshots here to showcase the design of your product card.
+
+
+
+
+
+![Movie_time (1)](https://github.com/user-attachments/assets/c33ed934-f4fc-4f06-af8e-24dfd3be1e1a)
+
+
+
+
+
+
